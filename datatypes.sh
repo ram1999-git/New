@@ -1,6 +1,5 @@
 #!/bin/bash
-#arthimatic operation of 2 numbers
-
+# Arithmetic operation of 2 numbers
 
 Number1=$1
 Number2=$2
