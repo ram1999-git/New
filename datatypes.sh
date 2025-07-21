@@ -10,6 +10,6 @@ Mult=$(($Number1*$Number2))
 Div=$(($Number1/$Number2))
 
 echo "Sum: $sum"
-echo "Subtraction: $sub"
-echo "Multiplication: $mult"
-echo "Division: $div"
+echo "Subtraction: $Sub"
+echo "Multiplication: $Mult"
+echo "Division: $Div"
